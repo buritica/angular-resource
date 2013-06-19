@@ -1,0 +1,16 @@
+{
+  "name": "angular-resource",
+  "repo": "buritica/angular-resource",
+  "description": "ComponentJS version of Angular Resource",
+  "version": "1.0.7",
+  "keywords": [],
+  "dependencies": {
+    "buritica/angular" : "1.0.7"
+    },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
